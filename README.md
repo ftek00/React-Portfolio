@@ -3,7 +3,7 @@
 ## Description
 
 ```md
-
+This is a React-based portfolio showcasing my web development projects. It includes sections for About Me, Portfolio, Contact, and Resume, with a responsive design and navigation. The application is deployed to Netlify and uses React Router for navigation between sections.
 ```
 
 ## User Story
